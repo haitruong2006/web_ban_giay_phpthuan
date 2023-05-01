@@ -1,0 +1,186 @@
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '1', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '1', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '1', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '1', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '1', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '2', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '2', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '2', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '2', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '2', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '3', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '3', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '3', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '3', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '3', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '4', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '4', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '4', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '4', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '4', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '5', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '5', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '5', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '5', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '5', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '6', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '6', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '6', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '6', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '6', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '7', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '7', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '7', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '7', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '7', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '8', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '8', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '8', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '8', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '8', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '9', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '9', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '9', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '9', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '9', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '10', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '10', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '10', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '10', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '10', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '11', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '11', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '11', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '11', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '11', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '12', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '12', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '12', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '12', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '12', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '13', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '13', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '13', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '13', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '13', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '14', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '14', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '14', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '14', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '14', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '15', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '15', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '15', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '15', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '15', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '16', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '16', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '16', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '16', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '16', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '17', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '17', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '17', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '17', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '17', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '18', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '18', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '18', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '18', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '18', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '19', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '19', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '19', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '19', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '19', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '20', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '20', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '20', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '20', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '20', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '21', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '21', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '21', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '21', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '21', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '22', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '22', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '22', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '22', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '22', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '24', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '24', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '24', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '24', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '24', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '25', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '25', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '25', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '25', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '25', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '26', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '26', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '26', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '26', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '26', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '27', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '27', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '27', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '27', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '27', '43');
+
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '28', '39');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '28', '40');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '28', '41');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '28', '42');
+INSERT INTO `size_product` (`id`, `productid`, `size`) VALUES (NULL, '28', '43');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
